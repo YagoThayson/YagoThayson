@@ -8,7 +8,7 @@
 - 🔭 Currently working on projects involving Java (Spring Boot) and Flutter
 - 🌱 Constantly learning and improving my skills in software engineering
 - 👯 Open to collaborating on academic and personal projects
-- 📫 How to reach me: *(add your email or LinkedIn here)*
+- 📫 How to reach me: *(yagothayson73@gmail.com)*
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
